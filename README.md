@@ -40,7 +40,7 @@ To use the files in this repository, follow these steps:
 1. **Clone the repository to your local machine:**
 
    ```bash
-   git clone https://github.com/your-username/Logica-Programacao.git
+   git clone https://github.com/KilluaChame/Logica-Programacao.git
    ```
 
 2. **Open the project in your favorite IDE or text editor.**
