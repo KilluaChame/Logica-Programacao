@@ -47,7 +47,7 @@ public class Exercicio3 {
 
         /* ========================= SAIDA DE DADOS ========================= */
 
-        // Verifica se o salário é menor que o limiteReajuste
+        // Verifica se o sa//lário é menor que o limiteReajuste
         if (salario < limiteReajuste) {
             // Aplica um aumento de 20%
             novoSalario = salario + (salario * 0.20);

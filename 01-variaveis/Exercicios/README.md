@@ -48,20 +48,17 @@ Desenvolva um programa que:
 
 ---
 
-## Exercício 4: Média de Notas e Situação do Aluno
+/_ =========== Exercício 4: Média de Notas e Situação do Aluno =========== _/
 
-**Descrição:**  
-Crie um programa que:
+        /*- Declare três variáveis do tipo `double` para armazenar as notas de um aluno.
+          - Calcule a média das três notas.
+          - Exiba uma mensagem informando se o aluno foi aprovado ou reprovado
+          (por exemplo, aprovado se a média for 7.0 ou superior).
 
-- Declare três variáveis do tipo `double` para armazenar as notas de um aluno.
-- Calcule a média das três notas.
-- Exiba uma mensagem informando se o aluno foi aprovado ou reprovado (por exemplo, aprovado se a média for 7.0 ou superior).
-
-**Dicas:**
-
-- Utilize o mesmo padrão de comentários (seções para DECLARANDO, CALCULANDO e SAÍDA NO CONSOLE).
-- Implemente uma estrutura condicional para verificar se a média atende ao critério de aprovação.
-- Teste com diferentes conjuntos de notas para garantir que o programa funciona corretamente em todos os cenários.
+        Dicas:
+            - Utilize o mesmo padrão de comentários (seções para DECLARANDO, CALCULANDO e SAÍDA NO CONSOLE).
+            - Implemente uma estrutura condicional para verificar se a média atende ao critério de aprovação.
+            - Teste com diferentes conjuntos de notas para garantir que o programa funciona corretamente em todos os cenários.*/
 
 ---
 
@@ -72,6 +69,43 @@ Crie um programa que:
 
 - **Compilação e Execução:**  
   Ao finalizar seu código, compile utilizando:
+
   ```bash
   javac *.java
+
   ```
+
+  ***
+
+## Exercício 5: Cálculo de Área e Perímetro de um Retângulo
+
+**Descrição:**  
+Crie um programa que:
+
+- Declare duas variáveis do tipo `double` para armazenar a largura e a altura de um retângulo.
+- Calcule e exiba a área e o perímetro do retângulo.
+
+**Dicas:**
+
+- A **área** de um retângulo é calculada como: largura × altura.
+- O **perímetro** é calculado como: 2 × (largura + altura).
+- Organize o código com seções como **DECLARANDO**, **CALCULANDO** e **SAÍDA NO CONSOLE**.
+- Teste o programa com diferentes valores de largura e altura.
+
+---
+
+## Exercício 6: Conversão de Temperatura
+
+**Descrição:**  
+Desenvolva um programa que:
+
+- Solicite ao usuário uma temperatura em graus Celsius (valor armazenado em uma variável `double`).
+- Converta a temperatura para Fahrenheit usando a fórmula:  
+  $$Fahrenheit = Celsius × 9/5 + 32$$
+- Exiba a temperatura em Fahrenheit.
+
+**Dicas:**
+
+- Use a classe `Scanner` para receber a entrada do usuário.
+- Certifique-se de explicar claramente ao usuário o que ele deve digitar.
+- Divida o código em seções como **DECLARANDO**, **CALCULANDO** e **SAÍDA NO CONSOLE**.
