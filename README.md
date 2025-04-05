@@ -10,9 +10,15 @@ The files are structured into directories to organize studies and exercises.
 
 ```
 Logica-Programacao/
+|
 ├── 01-variaveis/           # Topic: Variables and Basic Operations
 │   ├── studies/            # Study materials and theoretical explanations
 │   └── exercises/          # Practical exercises to reinforce concepts
+|
+├── 02-tipos-dados/         # Topic: Data Types
+│   ├── studies/            # Study materials and theoretical explanations
+│   └── exercises/          # Practical exercises to reinforce concepts
+|
 └── README.md               # Main documentation
 ```
 
