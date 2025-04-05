@@ -3,7 +3,7 @@
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
-public class Exercicio5 {
+public class VariaveisExercicio5 {
 
     // Método principal do Java, ponto de entrada da aplicação.
     public static void main(String[] args) {

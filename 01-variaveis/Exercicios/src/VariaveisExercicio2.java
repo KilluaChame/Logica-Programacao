@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class Exercicio2 {
+public class VariaveisExercicio2 {
 
     // Método principal do Java, ponto de entrada da aplicação.
     public static void main(String[] args) {

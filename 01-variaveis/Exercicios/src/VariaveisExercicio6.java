@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.text.DecimalFormat;
 
-public class Exercicio6 {
+public class VariaveisExercicio6 {
     public static void main(String[] args) {
 
         /* ============================ DECLARACAO ============================ */

@@ -2,7 +2,7 @@
 // Classe principal do programa, sempre deve ter o mesmo nome do arquivo.
 import java.util.Scanner;
 
-public class Exercicio3 {
+public class VariaveisExercicio3 {
 
     // Método principal do Java, ponto de entrada da aplicação.
     public static void main(String[] args) {
